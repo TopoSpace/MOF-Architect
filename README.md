@@ -1,4 +1,4 @@
-# MOF-Architect (TopoSpace Inc.)
+# MOF-Architect (TopoSpace)
 
 ## Overview
 
