@@ -32,6 +32,9 @@ This project utilizes the **MIT License**：
 
 *Note: See LICENSE document for full agreement details.*
 
+Now you can make your initial attempts on this site: https://mof-architect-testforpublic-production.up.railway.app/mof-architect
+For more information on TopoSpace, see: https://topo-space.com/ (website under construction)
+
 # MOF-Architect （拓扑空间）
 
 ## Overview
@@ -66,3 +69,6 @@ This project utilizes the **MIT License**：
 - 使用者可基于本框架开发衍生项目（包括各类用途）
 
 *注：完整协议细节详见LICENSE文件*
+
+现在你可以在这个网站上进行初步的尝试: https://mof-architect-testforpublic-production.up.railway.app/mof-architect
+有关TopoSpace的更多信息，请见：https://topo-space.com/（网站搭建中）
