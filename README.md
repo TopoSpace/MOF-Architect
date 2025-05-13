@@ -73,4 +73,6 @@ For more information on TopoSpace, see: https://topo-space.com/ (website under c
 
 现在你可以在这个网站上进行初步的尝试: https://mof-architect-testforpublic-production.up.railway.app/mof-architect
 
-有关TopoSpace的更多信息，请见：https://topo-space.com/（网站搭建中）
+有关TopoSpace的更多信息，请见：https://topo-space.com/
+
+（网站搭建中）
